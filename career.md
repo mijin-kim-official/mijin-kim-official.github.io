@@ -7,9 +7,9 @@ title: Research Career
 # Research Experience
 
 ### Architectural Research of Technology <br/>& Scientific Design Lab (ARTS Lab)
-#### Graduate Researcher, 2022 to Present
-#### Master Student (Feb. 2024), Ajou University
+<br/>
 
+#### Graduate Researcher, 2022 to Present
 Representative Project (ongoing): <br/>_**Anthoropomorphic Soft Robot for Human-robot Collaborative Construction**_
   * Led interdisciplinary research with energy system engineering to develop a self-healable, versatile robot hand gripper for construction sites
 * Created conceptual diagrams for a research proposal on self-assembly and soft modular 3D printing in construction robotics for space architecture
@@ -66,7 +66,6 @@ Representative Project: <br/>_**Flexural Responsive Building Facade using Hybrid
  * Co-BSM Active Learner Scholarship, 2017
    * Ajou University, Dasan University College of Humanities
    * KRW 200,000
-</p>
 
- 
+
 
