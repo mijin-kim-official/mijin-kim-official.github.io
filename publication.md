@@ -13,7 +13,7 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 #### International
 
-- **Seokho Son**, Dong-Jae Kang, Seyoung Phillip Huh. Won-Young Kim, Wan Choi, _“Adaptive trade-off strategy for bargaining-based multi-objective SLA establishment under varying cloud workload,”_ Journal of Supercomputing, vol. 72, pp. 1597–1622, March 2016. (Citation: 15, SCIE, IF: 2.157)
+- **M. Kim**, R. Yeasmin, H. Seo, & H. Yi, _“Anthropomorphic Soft-robot Hand in Human-Robot Collaboration in Architecture,”_ Scientific Report, In Progress. (Citation: 15, SCIE, IF: 2.157)
 
 - **Seokho Son**, Gihun Jung, Sung Chan Jun, _“An SLA-based cloud computing that facilitates resource allocation in the distributed data centers of a cloud provider,”_ Journal of Supercomputing, vol. 64, no. 2, pp. 606–637, May 2013. (Citation: 77, SCIE, IF: 2.157)
 
