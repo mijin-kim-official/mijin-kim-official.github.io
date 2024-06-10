@@ -27,8 +27,3 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 - **M. Kim**,& H. Yi, (2019) _“A soft robotics application for architectural design: Suggestion of a pneumatic kinetic façade module using a silicone elastomer actuator,”_ Proceedings of the 2019 Annual Conference of Architectural Institute of Korea, 39(2), 193-196.
 
-
-
-- Dong-Jae Kang, Won-Yong Kim, Jin-Mee Kim, Hyun-Joo Bae, **Seok-Ho Son**, Ji-Hyun Lee,	_"METHOD FOR BROKERING CLOUD SERVICE USING SERVICE IMAGE STORE AND APPARATUS USING THE SAME,"_ Korea Patent: 15-0084496 (applied).
-
-- Jong Won Kim, Seokhee Lee, and **Seokho Son**, _“Apparatus and method for implementing haptic-based networked virtual environment which supports high-resolution tiled display,”_ US Patent No. US9041621, May 26, 2015.
