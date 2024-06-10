@@ -2,17 +2,15 @@
 layout: page
 title: Research Career
 ---
-
-<br/>
-
-
+<p>
 # Research Experience
 
-### Architectural Research of Technology & Scientific Design Lab (ARTS Lab)
+### Architectural Research of Technology 
+</br>& Scientific Design Lab (ARTS Lab)
 #### Graduate Researcher, 2022 to Present
 #### Master Student (Feb. 2024), Ajou University
 
-* Project (ongoing): _**Anthoropomorphic Soft Robot for Human-robot Collaborative Construction**_
+Representative Project (ongoing): _**Anthoropomorphic Soft Robot for Human-robot Collaborative Construction**_
   * Led interdisciplinary research with energy system engineering to develop a self-healable, versatile robot hand gripper for construction sites
 <br/>
 
@@ -21,10 +19,8 @@ title: Research Career
 * Develop a machine learning prediction model for soft robot behavior
 * Conducted a Spirulina culture experiment to analyze its greenhouse gas reduction effect
 
-<br/>
-
 #### Undergraduate Researcher, 2018 to 2022
-* Project: _**Flexural Responsive Building Facade using Hybrid Soft Actuator**_
+Representative Project: _**Flexural Responsive Building Facade using Hybrid Soft Actuator**_
   * Collaborated with mechanical engineering on responsive architectural facade, employing a hybrid soft-robot actuator and shape memory material
   * Evaluated pneumatic actuator performance with simulation tool(SIMscale)
  <br/>
@@ -32,9 +28,9 @@ title: Research Career
 * Participated in Ajou University in Tashkent(AUT) Campus master plan
 * Fabricated 3D-printed attachable kinetic shading module
 * Supported monthly interdisciplinary research meetings at the College of Engineering in 2019
+</p>
 
-
-
+<p></p>
 # Honor and Award
 
 * 2024 AIK Excellence Graduate Paper Award
@@ -51,8 +47,9 @@ title: Research Career
   * Mooyoung Construction Management Co., South Korea, 2018
 * 2017 National Academic Conference for University Students in Cost Management Competition, third prize
   * Korea Institute of Construction Engineering and Management, 2017
+</p>
 
-
+<p>
 # Scholarships
 * AP10 Scholarship, 2022 to 2024 (Graduate School)
   * Ajou University, Department of Smart Convergence Architecture
@@ -73,7 +70,7 @@ title: Research Career
  * Co-BSM Active Learner Scholarship, 2017
    * Ajou University, Dasan University College of Humanities
    * KRW 200,000
-
+</p>
 
  
 
