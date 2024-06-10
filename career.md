@@ -62,7 +62,7 @@ title: Research Career
   * Ajou University, College of Engineering
   * 30%~50% of tuition reduction per semester
     
- * Academic Scholarship, 2022 
+* Academic Scholarship, 2022 
   * Ajou University, Department of Architecture
   * KRW 3,000,000 (USD ~3,000)
     
