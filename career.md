@@ -12,7 +12,8 @@ _Anthoropomorphic Soft Robot for Human-robot Collaborative Architecture_
 * Conducted industrial robot arm-controlling experiments
 * Develop a machine learning prediction model for soft robot behavior
 * Conducted a Spirulina culture experiment to analyze its greenhouse gas reduction effect
-<br/> 
+<br/>
+
 #### Undergraduate Researcher, Jun. 2018 - Sep. 2022
 _Flexural Responsive Building Facade using Hybrid Soft Actuator_
 * Collaborated with mechanical engineering on responsive architectural facade, employing a hybrid soft-robot actuator and shape memory material
