@@ -2,7 +2,7 @@
 layout: page
 title: Building Technology Researcher
 subtitle: Resilient, Adaptive, and Living Architecture
-cover-img: assets/img/cover_test.jpg
+cover-img: assets/img/Cover.png
 ---
 
 <br/>
