@@ -4,8 +4,7 @@ title: Career
 ---
 # Research Experience
 
-#### ARTS Lab (Architectural Research of Technology & Scientific Design Lab)
-<br/> Ajou University
+#### ARTS Lab, Ajou University
 #### MS Student, Sep. 2022 - Feb. 2024
 _Anthoropomorphic Soft Robot for Human-robot Collaborative Architecture_
 * Led interdisciplinary research with energy system engineering to develop a self-healable, versatile robot hand gripper for construction sites
@@ -13,7 +12,7 @@ _Anthoropomorphic Soft Robot for Human-robot Collaborative Architecture_
 * Conducted industrial robot arm-controlling experiments
 * Develop a machine learning prediction model for soft robot behavior
 * Conducted a Spirulina culture experiment to analyze its greenhouse gas reduction effect
-
+<br/> 
 #### Undergraduate Researcher, Jun. 2018 - Sep. 2022
 _Flexural Responsive Building Facade using Hybrid Soft Actuator_
 * Collaborated with mechanical engineering on responsive architectural facade, employing a hybrid soft-robot actuator and shape memory material
