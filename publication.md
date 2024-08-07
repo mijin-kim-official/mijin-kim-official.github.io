@@ -15,11 +15,11 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 - **M. Kim**, R. Yeasmin, H. Seo, & H. Yi, (2024) _“Anthropomorphic Soft-robot Hand in Human-Robot Collaboration in Architecture,”_ In Progress.
 
-- **M. Kim**, B.-G. Kim, J.-S. Koh, & H. Yi, (2023) _“Flexural biomimetic responsive building façade using a hybrid soft robot actuator and fabric membrane,”_ **Automation in Construction**, 145, 104660.  (Citation: 18, SCIE, IF: 11.0)
+- **M. Kim**, B.-G. Kim, J.-S. Koh, & H. Yi, (2023) _“Flexural biomimetic responsive building façade using a hybrid soft robot actuator and fabric membrane,”_ **Automation in Construction**, 145, 104660.  (Citation: 18, SCIE, IF: 11.0) [link](https://www.sciencedirect.com/science/article/abs/pii/S0926580522005301?via%3Dihub) 
 
-- H. Yi, D. Kim, Y. Kim, D. Kim, J.-S. Koh, & **M. Kim**, (2020) _“3D-printed attachable kinetic shading device with alternate actuation: Use of shape-memory alloy (SMA) for climate-adaptive responsive architecture,”_ **Automation in Construction**, 114, 103151. (Citation: 52, SCIE, IF: 11.0)
+- H. Yi, D. Kim, Y. Kim, D. Kim, J.-S. Koh, & **M. Kim**, (2020) _“3D-printed attachable kinetic shading device with alternate actuation: Use of shape-memory alloy (SMA) for climate-adaptive responsive architecture,”_ **Automation in Construction**, 114, 103151. (Citation: 52, SCIE, IF: 11.0) [link](https://www.sciencedirect.com/science/article/abs/pii/S0926580519308507?via%3Dihub)
 
-- H. Yi, **M. Kim**, Y. Kim, S.-S. Kim, & K.-I. Lee, (2019) _“Rapid simulation of optimally responsive façade during schematic design phases: Use of a new hybrid metaheuristic algorithm,”_ Sustainability, 11 (9). (Citation: 26, SCIE, IF: 3.9)
+- H. Yi, **M. Kim**, Y. Kim, S.-S. Kim, & K.-I. Lee, (2019) _“Rapid simulation of optimally responsive façade during schematic design phases: Use of a new hybrid metaheuristic algorithm,”_ Sustainability, 11 (9). (Citation: 26, SCIE, IF: 3.9) [link](https://www.mdpi.com/2071-1050/11/9/2681)
 
 ### Conference Papers
 
