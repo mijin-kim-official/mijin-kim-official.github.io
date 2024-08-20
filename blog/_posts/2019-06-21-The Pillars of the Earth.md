@@ -1,0 +1,67 @@
+---
+layout: post
+title: The Life of Medieval People in England and Cathedrals
+subtitle: OPINION. Based on the architecture of the British Cathedral in Ken Pollitt's novel "The Pillars of the Earth"
+tags: [Short Essay, History of Western Architecture]
+comments: true
+---
+
+### The Life of Medieval People in England and Cathedrals
+#### Based on the architecture of the British Cathedral in Ken Pollitt's novel "The Pillars of the Earth"
+&nbsp; &nbsp; No matter how advanced the technology and the materials are, a building can only be constructed by someone who needs it to be built. Such a person only emerges when constructing the building becomes essential to their livelihood.
+<br/>
+
+&nbsp; &nbsp; Many people are familiar with the grandeur of cathedrals and the elements that contribute to their splendor. The intricate stained glass windows and the sculptures that adorn the cathedral walls required significant capital and the labor of skilled stonemasons. The desire for salvation and entry into heaven fueled the religious fervor of medieval people, driving their passion for cathedral construction. However, behind the magnificent appearance of the cathedrals lay a world of conflict between the church and royal authority, the two most significant powers of the time. This power struggle, along with the desperate struggles of ordinary citizens to survive in a world dominated by the privileged, shaped the landscape of cathedral construction. The basic human desire to sustain one's life was why people flocked to monasteries and cathedrals, seeking wages and sustenance. Even more than religious faith, this primal need was the driving force that made cathedral construction possible. In this essay, I will explore the lives of medieval people as they relate to the process of cathedral construction.
+<br/>
+
+&nbsp; &nbsp; Ken Follett's novel _The Pillars of the Earth_ vividly portrays the lives of those involved in constructing a cathedral in the fictional medieval English town of Kingsbridge. The monastery, deeply invested in the cathedral's construction amidst the competing interests of parishes, local nobility, and even the English crown, engages in numerous activities to secure funds and materials for the project. In this process, many people find employment in and around the cathedral, living day by day. Like a pillar, the cathedral supports the lives of all those connected to it, becoming the pillar that sustains the land on which they live—the town. As mentioned in the novel, the construction of medieval cathedrals was not just a religious endeavor but a complex economic one. It attracted people, stimulated the market economy and urban growth, and accumulated wealth for the ruling class. At the same time, it was the most outstanding achievement that over 90% of the subjugated population could create together, united under a single purpose.
+<br/>
+
+&nbsp; &nbsp; According to records from 1377, the largest city in England, London, had a population of around 45,000 to 50,000. Beyond London, there were four cities with populations between 8,000 and 15,000, eight cities between 5,000 and 8,000, 27 cities between 2,000 and 5,000, and approximately 500 towns between 500 and 2,000. Most of these towns were small, with populations under 1,500, and were more like rural villages where markets were held than what we would consider cities today. Compared to Hanyang in 14th century Korea, which had a population exceeding 100,000, these were tiny towns.
+<br/>
+
+&nbsp; &nbsp; Despite the relatively small populations, it was nearly impossible for anyone entering these towns to gain citizenship and live freely. According to medieval records from the city of Exeter, by the late 14th century, the city had a population of about 3,000. Still, only 90 were freemen with citizenship in 1377, just 3% of the population. The same was true for other cities. In early 14th century London, only 2,000 out of 40,000 people were citizens, roughly 5%. Generally, freemen who held citizenship in medieval cities comprised just 2-3% of the population. Medieval English cities were societies dominated by the privileged, ruled by a minority of nobles and royalty. Citizenship was often inherited by the next generation. To gain new citizenship, one had to live in the city for a significant period, accumulate substantial wealth, and secure the support of influential city residents. This process was often arduous and required wealth and social connections, making it a privilege reserved for the elite.
+<br/>
+
+&nbsp; &nbsp; Commoners who entered the city arbitrarily faced punishment or expulsion. People were segregated by class, and many were prohibited from living within the city walls. Vagrants were unwelcome everywhere and were sometimes accused of witchcraft and burned at the stake. The most desperate need for these people was shelter and a secure life. The Magna Carta of the 13th century stated that once a person became a freeman, their life and property could not be infringed upon without legal proceedings or trial. To become a freeman, one had to earn money.
+<br/>
+
+&nbsp; &nbsp; Nobles from various regions, feudal lords, and often the bishops of dioceses who acted as lords engaged in fierce power struggles to gain legal jurisdiction over cities. This was because legal jurisdiction allowed them to directly control the townspeople through the law and generate substantial income from confiscating property, fines, and fees. As a result, it was common for multiple feudal jurisdictions to overlap within a single city. Archbishops, cathedral chapters, and nobles held legal jurisdiction, allowing them to amass economic wealth through land rents, fines, market profits, seigniorage, and tithes.
+<br/>
+
+&nbsp; &nbsp; The medieval cities were a complex social structure, with nobles, the church, and commoners forming their composition. Among these, the commoners bore the brunt of all taxes as subjects under feudal jurisdiction. In the medieval mindset, nobles were seen as warriors and knights whose primary duty was to serve the king in battle and protect the peasants. As a result, they only paid taxes when they were not engaged in combat. Similarly, the church, instead of paying taxes to lords or the king, was responsible for the welfare and enlightenment of commoners through missionary work. Local monasteries even collected taxes from the commoners. This heavy tax burden meant that commoners had to part with half of their income. After paying taxes in money to the lords, they would give livestock to the church. Despite this, commoners were drawn to the cities, eager to live there and receive protection.
+<br/>
+
+&nbsp; &nbsp; In this context, a cathedral presented the best opportunity to secure employment. Cathedral construction was typically a long-term project that took many years, and it offered a safe refuge and stable meals provided by the church. Once construction began, workers could look forward to several years without worrying about taxes, food, or shelter, thanks to the church's support.
+<br/>
+
+&nbsp; &nbsp; Cathedral construction was led by skilled craftsmen affiliated with guilds responsible for design, sculpture, and structural work. Unskilled tasks during this process were handled by laborers who were paid daily wages. Skilled craftsmen received better treatment, and the entire families of laborers often found work within the cathedral. The sons of stonemasons and carpenters learned the specialized skill by working alongside their fathers on the construction site.
+<br/>
+
+&nbsp; &nbsp; Additionally, markets would spring up near the cathedral to support the ongoing construction, offering new job opportunities. In Ken Follett's novel, one merchant character finds work by staying at the monastery and acting as an intermediary between the market and the peasants. This character creates new jobs by supplying textiles to the monastery on behalf of producers. In history, Robert of Lewes, the Bishop of Bath, established three markets in Wells, Somerset, located on major roads—Modern Broad Street, Queen Street, and St. Cuthbert Street/High Street. These markets formed a large triangular market district. Robert initiated the reconstruction of the Anglo-Saxon church into a Norman church in 1148, securing economic control and attracting people to Wells through the formation of these markets. As cathedral construction progressed, many people came to Wells for church-related work, boosting market profits. As the market expanded, it provided more jobs and established a stable foundation for Wells' economy.
+<br/>
+
+&nbsp; &nbsp; The 11th century, at the beginning of a new millennium, was a time when thoughts of the Last Judgment and apocalyptic beliefs were pervasive throughout society. Since everyone dreamed of absolution from sin and entry into heaven, it was natural to hope for salvation while working in a cathedral. The construction of cathedrals, initiated by the commands of the ruling class as a means of survival, was not only a tangible element that sustained the lives of those who built them but also a spiritual pillar that fostered faith and hope for salvation. Additionally, it was a social movement that united the objectives of commoners, nobles, and the church under the banner of faith, creating the massive architecture. 
+<br/>
+
+&nbsp; &nbsp; The medieval cathedrals completed through this process were not spaces reserved only for the privileged ruling class. Cathedrals were places for all social strata. Merchants set up stalls in the cathedral courtyard to conduct business, and markets emerged around the cathedral where goods were sold. At night, travelers could find shelter in parts of the cathedral while stonemasons and carpenters gathered there to await potential employers.
+<br/>
+
+&nbsp; &nbsp; Despite the relatively small population of medieval England, securing a guaranteed life as a freeman with citizenship in the cities was extremely difficult. To cope with excessive taxes and household expenses, people needed to work. Cathedral construction provided jobs for commoners, and the various social activities that emerged around the cathedrals helped shape urban life. The fundamental purpose of life was expressed through the cathedral, embodying the faith and hopes of many.
+<br/>
+
+&nbsp; &nbsp; An author writes a literary work to reflect society's state and express their thoughts. Ken Follett began to look into the lives behind the construction of cathedrals after trying to understand the awe he felt when he first saw one. The cathedral, completed over a long period and standing the test of time, inspires awe in people, but human effort brought that awe into existence.
+<br/>
+
+&nbsp; &nbsp; The world has changed, but it seems nothing has changed at all in some ways. The top 5% of people still hold 90% of the land, while the remaining 95% of modern individuals seek employers who will provide them with work. However, we are not satisfied with merely working to live; we strive to create something like a cathedral that gives meaning to our lives. What is the cathedral—the pillar—that supports the lives of modern people? What kind of cathedral can we build?
+<br/>
+
+### Reference
+1. 『The Pillars of the Earth』, Ken Follett, Macmillan, United Kingdom, 1989, ISBN 978-0333519837. <br/>
+2. 우리 눈으로 보는 세계사 1, 강철구, 용의 숲, 2009, pp101-124. <br/>
+3. 고딕 대성당을 중심으로 한 중세 인들의 커뮤니케이션 -샤르트르와 영국 대성당들(cathedrals)을 중심으로, 이영재 서양중세사연구, 21, 2008, 53-87. <br/>
+4. 『The Medieval City』, Norman Pounds, Greenwood Press, Westport, London, 2005, pp55-98. <br/>
+5. "English Heritage Extensive Urban Survey," 「An Archaeological assessment of Wells」, Clare Gathercole, SOMERSET City Council, 2003, pp4-15. <br/>
+
+------ <br/>
+&nbsp; &nbsp; While taking a Western Architecture History class, I had the opportunity to write a short essay. In the winter of 2017, I first came across Ken Follett's epic novel The Pillars of the Earth on a bookshelf, but it was in the fall of 2018 that I finally turned its pages. In less than a day, I devoured all three volumes. Inspired by the depiction of cathedral construction in medieval England, I decided to explore how these grand churches influenced the lives of Western Europeans during the Middle Ages. What started as a light essay soon led me to delve into the records of the Wells City Council in England. Cathedrals remain significant landmarks in Western cities today, and this research helped me weave together my scattered knowledge of Western architecture, literature, and musical arts. Throughout the writing, the main theme of the musical Notre-Dame de Paris, The Age of the Cathedrals, kept playing in my mind.
