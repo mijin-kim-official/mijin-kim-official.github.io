@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building Technology Researcher
-subtitle: Towards Resilient, Adaptive, and Living Architecture <br/> [CV](https://drive.google.com/file/d/1Mee-pa-DiKqzQz2aa51bKb5-pOdE7IQU/view?usp=sharing) 
+subtitle: Towards Resilient, Adaptive, and Living Architecture
 cover-img: assets/img/Picture2.png
 ---
 
