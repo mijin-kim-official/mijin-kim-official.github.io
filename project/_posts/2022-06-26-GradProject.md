@@ -70,4 +70,11 @@ Existing eco-friendly data centers are often built in remote locations such as t
 ##### Extra Works
 <img src="/assets/img/Plan3.png" width="90%" height="90%">{: .mx-auto.d-block :}
 
-
+<br/>
+Graduation Project, Undergraduate School
+<br/>
+_Third Place_, 2022 Architecture Graduation Exhibition
+<br/>
+Mar. 2022 - Jun. 2022
+<br/>
+© Mijin Kim All Rights Reserved
