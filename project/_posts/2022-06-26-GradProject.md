@@ -16,31 +16,33 @@ comments: true
 <br/>
 
 <img src="/assets/img/CAMPUS.jpg" width="70%" height="70%">{: .mx-auto.d-block :}
+<br/>
 
 #### Problem with Current Data Center Facility
 **City, Architecture, and Society**
 <br/> 
-&nbsp; &nbsp; **Issue 1** 
-<br/> 
-Despite the increasing demand for architectural developments, data centers are not recognized as significant urban architecture in South Korea. In some areas, they are even regarded as undesirable facilities, leading to discomfort when they are constructed near residential areas. Nearby residents usually complain, including concerns about electromagnetic radiation and environmental pollution, such as the emission of white smoke.
-<br/> 
-&nbsp; &nbsp; **Issue 2**
+**Issue 1** 
 <br/>
-Constructing large-scale data centers in suburban areas can lead to local conflicts due to establishing new power transmission lines and substations, potentially disrupting the region's ecosystem and landscape.
+&nbsp; &nbsp; Despite the increasing demand for architectural developments, data centers are not recognized as significant urban architecture in South Korea. In some areas, they are even regarded as undesirable facilities, leading to discomfort when they are constructed near residential areas. Nearby residents usually complain, including concerns about electromagnetic radiation and environmental pollution, such as the emission of white smoke.
+<br/> 
+**Issue 2**
 <br/>
-&nbsp; &nbsp; **Issue 3**
-<br/> Data centers, despite their size, require fewer direct employees than other facilities of similar size and are not utilized as public urban spaces.
+&nbsp; &nbsp; Constructing large-scale data centers in suburban areas can lead to local conflicts due to establishing new power transmission lines and substations, potentially disrupting the region's ecosystem and landscape.
+<br/>
+**Issue 3**
+<br/> 
+&nbsp; &nbsp; Data centers, despite their size, require fewer direct employees than other facilities of similar size and are not utilized as public urban spaces.
 <br/>
 
 **Environment, Energy, Technology**
 <br/>
-&nbsp; &nbsp; **Issue 4** 
+**Issue 4** 
 <br/> 
-From an energy consumption and environmental perspective, data centers use enormous amounts of electricity. Notably, 40% of the total energy is used for cooling the servers. Additionally, this can cuase challenges for the local electricity supply.
+&nbsp; &nbsp; From an energy consumption and environmental perspective, data centers use enormous amounts of electricity. Notably, 40% of the total energy is used for cooling the servers. Additionally, this can cuase challenges for the local electricity supply.
 <br/>
-&nbsp; &nbsp; **Issue 5** 
+**Issue 5** 
 <br/>
-Existing eco-friendly data centers are often built in remote locations such as the Arctic or deserts, where human access is limited. This makes it difficult to ensure fast response times when connected to the Internet.
+&nbsp; &nbsp; Existing eco-friendly data centers are often built in remote locations such as the Arctic or deserts, where human access is limited. This makes it difficult to ensure fast response times when connected to the Internet.
 
 #### Site Analysis
 <img src="/assets/img/Grad1.png" width="50%" height="50%">{: .mx-auto.d-block :}
@@ -52,6 +54,8 @@ Existing eco-friendly data centers are often built in remote locations such as t
 * Educational facilities that can foster diverse industry-academia collaborations
 * Suburban areas with lower land prices compared to central Seoul.
 * Regions capable of utilizing renewable energy.
+<br/>
+
 
 #### Program
 <img src="/assets/img/PROGRAMS.png" width="70%" height="70%">{: .mx-auto.d-block :} <br/> 
