@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Life of Medieval People in England and Cathedrals
-subtitle: OPINION. Based on the architecture of the British Cathedral in Ken Pollitt's novel "The Pillars of the Earth"
+subtitle: ESSAY. Based on the architecture of the British Cathedral in Ken Pollitt's novel "The Pillars of the Earth"
 tags: [Short Essay, History of Western Architecture]
 comments: true
 ---
@@ -46,5 +46,5 @@ comments: true
 4. 우리 눈으로 보는 세계사 1, 강철구, 용의 숲, 2009, pp101-124. <br/>
 5. 고딕 대성당을 중심으로 한 중세 인들의 커뮤니케이션 -샤르트르와 영국 대성당들(cathedrals)을 중심으로, 이영재 서양중세사연구, 21, 2008, 53-87. <br/>
 
------- <br/>
+--------- <br/>
 &nbsp; &nbsp; While taking a Western Architecture History class, I had the opportunity to write a short essay. In the winter of 2017, I first came across Ken Follett's epic novel The Pillars of the Earth on a bookshelf, but it was in the fall of 2018 that I finally turned its pages. In less than a day, I devoured all three volumes. Inspired by the depiction of cathedral construction in medieval England, I decided to explore how these grand churches influenced the lives of Western Europeans during the Middle Ages. What started as a light essay soon led me to delve into the records of the Wells City Council in England. Cathedrals remain significant landmarks in Western cities today, and this research helped me weave together my scattered knowledge of Western architecture, literature, and musical arts. Throughout the writing, the main theme of the musical Notre-Dame de Paris, The Age of the Cathedrals, kept playing in my mind.
