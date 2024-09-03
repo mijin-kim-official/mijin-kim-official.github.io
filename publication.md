@@ -13,7 +13,7 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 #### International
 
-- **M. Kim**, R. Yeasmin, H. Seo, & H. Yi, (2024) _“Advanced Anthropomorphic Self-Healing Soft Gripper towards Human-Robot Collaborative Construction”_ In Progress.
+- **M. Kim**, R. Yeasmin, H. Seo, & H. Yi, (2024) _“Fabrication of advanced anthropomorphic self-healing soft gripper towards human-robot collaborative construction”_ In Progress.
 
 - **M. Kim**, B.-G. Kim, J.-S. Koh, & H. Yi, (2023) _“Flexural biomimetic responsive building façade using a hybrid soft robot actuator and fabric membrane,”_ **Automation in Construction**, 145, 104660.  (Citation: 18, SCIE, IF: 11.0) [link](https://www.sciencedirect.com/science/article/abs/pii/S0926580522005301?via%3Dihub) 
 
