@@ -12,7 +12,7 @@ author: Mijin Kim
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  CV: "https://drive.google.com/file/d/1RIsEf8wHi-1Xj__W6bteFlPxCOE-9yic/view?usp=sharing"
+  CV: "https://drive.google.com/file/d/1Gi7Rymawpjzry0ADSWbk6wdKpYiiskjb/view?usp=sharing"
   Career: "career"
   Publication: "publication"
   Project: "project"
