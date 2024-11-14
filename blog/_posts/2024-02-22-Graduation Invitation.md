@@ -14,7 +14,7 @@ comments: true
 <br/>
 
 #### 22-Feb. 2024. Graduation Day!
-<img src="/assets/img/Grad (3).png" width="60%" height="60%">{: .mx-auto.d-block :}
+<img src="/assets/img/Grad (3).png" width="100%" height="100%">{: .mx-auto.d-block :}
 <br/>
 &nbsp; &nbsp; Graduation day couldn’t have been happier! I’m so grateful for the warm congratulations and support from my amazing lab mates—love you guys all! (Our banner master TK and cake master Areum). A heartfelt thank you to my supervisor, Dr. Hwang Yi, for his unwavering support and belief in me throughout my academic journey since 2018. I also won the Dean of Graduate School prize for Best Paper Award, and the 2024 AIK Excellence Graduate Paper Award!
 
