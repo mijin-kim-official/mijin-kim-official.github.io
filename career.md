@@ -26,32 +26,35 @@ _Flexural Responsive Building Facade using Hybrid Soft Actuator_
 <br/>
 
 # Honor and Award
+#### Graduate
 
-* 2024 AIK Excellence Graduate Paper Award
-  * Architectural Institute of Korea(AIK), Master category, 2024
-* Best Paper Award, Dean of Graduate School prize
-  * Ajou University, Graduate School, 2024
-* 2022 Architecture Graduation Exhibition, third prize
-  * Ajou University, Department of Architecture, 2022
-* 2019 AIK Superior Presentation Winner
-  * 2019 AIK General Meeting and Autumn Conference, 2019
-* Mooyoung CM National Construction Management Competition for University Students, third prize
-  * Mooyoung Construction Management Co., South Korea, 2018
-* 2017 National Academic Conference for University Students in Cost Management Competition, third prize
-  * Korea Institute of Construction Engineering and Management, 2017
-
+* 2024 Excellence Graduate Paper Award - Apr. 2024
+  * Architectural Institute of Korea (AIK)
+* Graduate School Best Paper Award - Feb. 2024
+  * Dean of Graduate School Prize Ajou University
+* AP10 Scholarship (Half-tuition) - Fall 2022 – Spring 2024
+  * Ajou University, Department of Architecture
+* Merit-based Graduate Entry Scholarship - Sep. 2022
+  * Ajou University, Department of Architecture
 <br/>
 
-# Scholarships
-* AP10 Scholarship (Half-tuition), 2022 - 2024 
-  * Ajou University, Graduate School, Department of Smart Convergence Architecture 
-* Academic Scholarship (Half-tuition), 2017 - 2022 
-  * Ajou University, College of Engineering    
-* Academic Scholarship, 2022 
-  * Ajou University, Department of Architecture    
-* Co-BSM Active Learner Scholarship, 2017
-   * Ajou University, Dasan University College of Humanities
-* Merit-based Hitejinro Scholarship Student, 2018
-   * Hitejinro Co., South Korea
+#### Undergraduate
+
+* _Third Place_, 2022 Architecture Graduation Exhibition - Jun. 2022
+  * Ajou University, Department of Architecture
+* AIK Autumn Conference Best Paper Award Winner - Sep. 2019
+* Merit-based Academic Scholarship (Half-tuition) - Spring 2017 – Spring 2022
+  * Ajou University, College of Engineering
+* HiteJinro Scholarship Award - Aug. 2018
+  * HiteJinro Holdings Co., Ltd.
+* Co-BSM Active Learner Scholarship - Nov. 2017
+  * Ajou University, College of Humanities
+<br/>
+
+#### Competition
+* _Third Place_, Mooyoung CM National Construction Management Competition for University Students - Jul. 2018
+  * Mooyoung Construction Management Co.
+* _Third Place_, National Academic Conference for University Students in Cost Management Competition - Nov. 2017
+  * Korea Institute of Construction Engineering and Management (KICEM)
 
 
