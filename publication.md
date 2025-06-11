@@ -4,7 +4,7 @@ title: Publication
 ---
 
 
-I can also be found from [Google Scholar](https://scholar.google.com/citations?user=JY44k3cAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Mijin-Kim-27).
+I can also be found from [Google Scholar](https://scholar.google.com/citations?user=j2HTPsAAAAAJ&hl=ko) and [Research Gate](https://www.researchgate.net/profile/Mijin-Kim-27).
 
 
 # Research Papers
