@@ -4,8 +4,15 @@ title: Career
 ---
 # Research Experience
 
-#### ARTS Lab, Ajou University
-#### MS Student, Sep. 2022 - Feb. 2024
+#### Format Lab, The Pennsylvania State University
+#### Ph.D. student, Aug. 2025 - Current
+_Updated later_
+<br/>
+<br/>
+
+#### ARTS Lab, Ajou University | Korea University
+#### MS student, Sep. 2022 - Feb. 2024
+#### Graduate Researcher, Apr. 2024 - May 2025
 _Anthoropomorphic Soft Robot for Human-robot Collaborative Architecture_
 * Led interdisciplinary research with energy system engineering to develop a self-healable, versatile robot hand gripper for construction sites
 * Created conceptual diagrams for a research proposal on self-assembly and soft modular 3D printing in construction robotics for space architecture
@@ -28,10 +35,12 @@ _Flexural Responsive Building Facade using Hybrid Soft Actuator_
 # Honor and Award
 #### Graduate
 
+* 2025-2026 University Graduate Fellowship (UGF) - Feb. 2025
+  * The Pennsylvania State University, Graduate School
 * 2024 Excellence Graduate Paper Award - Apr. 2024
   * Architectural Institute of Korea (AIK)
 * Graduate School Best Paper Award - Feb. 2024
-  * Dean of Graduate School Prize Ajou University
+  * Dean of Graduate School Prize, Ajou University
 * AP10 Scholarship (Half-tuition) - Fall 2022 – Spring 2024
   * Ajou University, Department of Architecture
 * Merit-based Graduate Entry Scholarship - Sep. 2022
