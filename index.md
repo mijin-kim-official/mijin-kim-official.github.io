@@ -23,5 +23,5 @@ _"I firmly believe that architects should not only design building plans but als
 ```
 Affiliation: Ph.D. Student, College of Art and Architecture, Penn State University
 Office: Format Lab, 121 Stuckeman Family Building, University Park, PA, 16802 | USA
-Email: mijinkim0714[at]gmail.com
+Email: mijinkim0714[at]gmail.com / mvk6435[at]psu.edu
 ```
